@@ -15,7 +15,7 @@ namespace Sample {
 	
 	// Update is called once per frame
 	void Update () {
-		
+            onSees();
 	}
    public void OnClick()
     {
